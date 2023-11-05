@@ -1,2 +1,2 @@
-# docker-examples
-Sample Docker-based applications
+# DevOps examples
+Sample applications

@@ -1,4 +1,4 @@
-# docker-python
+# Python app
 
 To run the application and view it at http://localhost:5000
 ```
