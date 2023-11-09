@@ -47,4 +47,4 @@ jobs:
           context: "{{defaultContext}}:python"
           push: true
           file: Dockerfile
-          tags: ${{ secrets.DOCKER_USERNAME }}/${{ env.REPO_NAME }}:latest
+          tags: ${{ secrets.DOCKER_USERNAME }}/${{ env.REPO_NAME }}_python:latest
