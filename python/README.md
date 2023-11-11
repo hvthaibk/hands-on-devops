@@ -19,7 +19,7 @@ docker compose watch
 
 ## Kubernetes
 
-To run the application and view it at http://localhost:300001
+To run the application and view it at http://localhost:30001
 ```
 kubectl apply -f ./python/kubernetes.yaml
 ```
