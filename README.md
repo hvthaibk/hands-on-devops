@@ -1,2 +1,1 @@
-# DevOps examples
-Sample applications
+# Hands-on DevOps

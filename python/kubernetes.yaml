@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
        - name: flask-service
-         image: hvthaibk/devops-examples_python
+         image: hvthaibk/hands-on-devops_python
          imagePullPolicy: Always
          env:
           - name: POSTGRES_PASSWORD
